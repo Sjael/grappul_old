@@ -1,0 +1,1 @@
+import{Mo as e}from"./index-B3jxUgB2.js";e();

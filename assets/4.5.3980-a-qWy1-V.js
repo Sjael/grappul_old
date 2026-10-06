@@ -1,0 +1,1 @@
+var e={id:`4.5.3980`,version:`4.5`,name:`Hotfix`,hotfix:!0,date:`2017-03-28`,source:`https://smite.fandom.com/wiki/SMITE_Version_4.5.3980`,summary:``,gods:[{id:`nemesis`,name:`Nemesis`,verdict:`adjust`,quote:``,groups:[{ability:`swift_vengeance`,name:`Swift Vengeance`,changes:[{text:`Updated description.`}]}]}],items:[],general:[]};export{e as default};
