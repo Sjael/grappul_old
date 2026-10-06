@@ -1,0 +1,1 @@
+import{Fo as e}from"./index-CKOOLzkl.js";e();
